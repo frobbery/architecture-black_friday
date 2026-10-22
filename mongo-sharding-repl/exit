@@ -1,0 +1,3 @@
+]0;mongosh mongodb://127.0.0.1:27020/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	6ada1fc072cc0f5d8be3a64b
+Connecting to:		[1m[32mmongodb://127.0.0.1:27020/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.13.0[0m
+MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27020
